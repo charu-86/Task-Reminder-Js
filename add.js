@@ -1,6 +1,6 @@
 const form = document.querySelector('#task-form');
 const taskList = document.querySelector('.collections');
-const clearbtn = document.querySelector('.clear-tasks');
+const clearbtn = document.querySelector('.clear-task');
 const filter = document.querySelector('#filter');
 const taskInput = document.querySelector('#task')
 
